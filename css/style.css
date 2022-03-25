@@ -1,0 +1,63 @@
+.flex {
+  display: flex;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.mainSize {
+  width: 1500px;
+  margin: 50px auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 0;
+  margin: 15px;
+  font-weight: bold;
+  color: #00277e;
+}
+
+a:visited {
+  color: #00277e;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #00277e;
+}
+
+.menu {
+  font-size: 20px;
+  color: #00277e;
+}
+
+.content {
+  margin-top: 100px;
+  position: relative;
+}
+
+.img {
+  position: absolute;
+  left: 50%;
+}
+
+img {
+  width: 800px;
+}
+
+.catchCopy {
+  width: 1200px;
+  font-size: 80px;
+  border-bottom: 250px solid #00277e;
+  position: absolute;
+  top: 330px;
+  left: -50px;
+}
