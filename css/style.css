@@ -7,8 +7,13 @@
 }
 
 .mainSize {
-  width: 1500px;
+  width: 1000px;
   margin: 50px auto;
+}
+
+.name {
+  width: 100%;
+  margin: 0 auto;
 }
 
 ul {
@@ -29,35 +34,34 @@ a:visited {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold;
   color: #00277e;
 }
 
 .menu {
-  font-size: 20px;
+  font-size: 15px;
   color: #00277e;
 }
 
 .content {
-  margin-top: 100px;
+  margin-top: 40px;
   position: relative;
 }
 
 .img {
   position: absolute;
-  left: 50%;
+  left: 500px;
 }
 
 img {
-  width: 800px;
+  width: 500px;
 }
 
 .catchCopy {
-  width: 1200px;
-  font-size: 80px;
-  border-bottom: 250px solid #00277e;
+  width: 800px;
+  font-size: 70px;
+  border-bottom: 150px solid #00277e;
   position: absolute;
-  top: 330px;
-  left: -50px;
+  top: 200px;
 }
